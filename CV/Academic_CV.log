@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.8)  13 OCT 2023 22:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.3.8)  14 OCT 2023 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -577,7 +577,7 @@ Overfull \hbox (8.88101pt too wide) in paragraph at lines 404--404
  []
 
 
-Overfull \hbox (1.34706pt too wide) in paragraph at lines 416--416
+Overfull \hbox (1.34706pt too wide) in paragraph at lines 417--417
 []\T1/cmr/m/sc/10.95 Languages  
  []
 
@@ -610,9 +610,9 @@ sers\rdsan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk>
 <C:/Users/rdsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/F
 ontAwesome5Brands-Regular.pfb><C:/Users/rdsan/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb>
-Output written on Academic_CV.pdf (2 pages, 155059 bytes).
+Output written on Academic_CV.pdf (2 pages, 156321 bytes).
 PDF statistics:
- 397 PDF objects out of 1000 (max. 8388607)
+ 403 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)
  81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
