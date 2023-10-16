@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (MiKTeX 21.12) (format=lualatex 2023.10.15)  15 OCT 2023 22:59
+This is LuaHBTeX, Version 1.14.0 (MiKTeX 21.12) (format=lualatex 2023.10.15)  16 OCT 2023 00:23
  restricted system commands enabled.
 **Academic_CV.tex
 (./Academic_CV.tex
@@ -681,52 +681,42 @@ Overfull \hbox (10.60161pt too wide) in paragraph at lines 339--339
 \T1/lmr/m/sc/10.95 Em-ploy-ment  
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 353--358
-
- []
-
 [1
 
 {C:/Users/rdsan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 362--367
-
+Overfull \hbox (5.33838pt too wide) in paragraph at lines 363--364
+[]\T1/lmr/bx/n/10.95   Beyond Ac-cess: The Ef-fect of Ra-cial Quo-tas on Stu-de
+nt Out-co-mes in Bra-zi-lian
  []
 
 
-Overfull \hbox (2.65334pt too wide) in paragraph at lines 362--367
-\T1/lmr/m/n/10 from mi-no-ri-ties in se-lec-tive vo-ca-ti-o-nal pu-blic high sch
-ool ad-mis-si-ons, on stu-dent out-co-mes. Ex-plo-ring
- []
-
-
-Overfull \hbox (8.84798pt too wide) in paragraph at lines 370--370
+Overfull \hbox (8.84798pt too wide) in paragraph at lines 375--375
 []\T1/lmr/m/sc/10.95 Fel-lowships 
  []
 
 
-Overfull \hbox (5.52289pt too wide) in paragraph at lines 381--381
+Overfull \hbox (5.52289pt too wide) in paragraph at lines 386--386
 []\T1/lmr/m/sc/10.95 Re-fe-ren-ces  
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 387.
+(Font)              <10.95> on input line 392.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 387.
+(Font)              <8> on input line 392.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 387.
+(Font)              <6> on input line 392.
 
-Overfull \hbox (32.50081pt too wide) in paragraph at lines 386--402
+Overfull \hbox (32.50081pt too wide) in paragraph at lines 391--407
 []  [] 
  []
 
 
-Overfull \hbox (8.76152pt too wide) in paragraph at lines 404--404
+Overfull \hbox (8.76152pt too wide) in paragraph at lines 409--409
 []\T1/lmr/m/sc/10.95 De-part-ment 
  []
 
 
-Overfull \hbox (0.934pt too wide) in paragraph at lines 417--417
+Overfull \hbox (0.934pt too wide) in paragraph at lines 422--422
 []\T1/lmr/m/sc/10.95 Lan-gua-ges  
  []
 
@@ -734,19 +724,19 @@ Overfull \hbox (0.934pt too wide) in paragraph at lines 417--417
 AED: lastpage setting LastPage
 [2] (./Academic_CV.aux)
 Package rerunfilecheck Info: File `Academic_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 1CE9D606FAB61DB4897D68CB1F464569;1201.
+(rerunfilecheck)             Checksum: DB4557278E77A074874A63C3E75FF200;1333.
 )
 
 Here is how much of LuaTeX's memory you used:
- 16184 strings out of 477867
+ 16187 strings out of 477867
  100000,662416 words of node,token memory allocated
  513 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 9 attribute, 60 glue_spec,
  6 attribute_list, 2 write nodes
-   avail lists: 2:1471,3:492,4:200,5:467,6:126,7:9807,8:32,9:510,10:9,11:950
- 36175 multiletter control sequences out of 65536+600000
- 39 fonts using 2662575 bytes
- 72i,10n,74p,1177b,1102s stack positions out of 5000i,500n,10000p,200000b,80000s
+   avail lists: 2:1519,3:501,4:206,5:474,6:129,7:9900,8:32,9:513,10:10,11:959
+ 36177 multiletter control sequences out of 65536+600000
+ 40 fonts using 2745255 bytes
+ 72i,10n,74p,1232b,1102s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/rdsan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<//?/
 c:/users/rdsan/appdata/local/programs/miktex/fonts/opentype/public/fontawesome5/
 fontawesome5brands-regular-400.otf><//?/c:/users/rdsan/appdata/local/programs/mi
@@ -758,9 +748,9 @@ dsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/rds
 an/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/rdsan
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/rdsan/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on Academic_CV.pdf (2 pages, 187579 bytes).
+Output written on Academic_CV.pdf (2 pages, 195796 bytes).
 
-PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 131072)
- 81 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 114 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 131072)
+ 89 words of extra memory for PDF output out of 10000 (max. 100000000)
 
