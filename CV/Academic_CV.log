@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (MiKTeX 21.12) (format=lualatex 2023.10.15)  15 OCT 2023 22:37
+This is LuaHBTeX, Version 1.14.0 (MiKTeX 21.12) (format=lualatex 2023.10.15)  15 OCT 2023 22:59
  restricted system commands enabled.
 **Academic_CV.tex
 (./Academic_CV.tex
@@ -732,11 +732,7 @@ Overfull \hbox (0.934pt too wide) in paragraph at lines 417--417
 
 
 AED: lastpage setting LastPage
-[2
-Missing character: There is no ‐ (U+2010) in font ec-lmr10!
-Missing character: There is no ‐ (U+2010) in font ec-lmr10!
-Missing character: There is no ‐ (U+2010) in font ec-lmr10!
-] (./Academic_CV.aux)
+[2] (./Academic_CV.aux)
 Package rerunfilecheck Info: File `Academic_CV.out' has not changed.
 (rerunfilecheck)             Checksum: 1CE9D606FAB61DB4897D68CB1F464569;1201.
 )
@@ -762,7 +758,7 @@ dsan/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/rds
 an/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/rdsan
 /AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/rdsan/Ap
 pData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb>
-Output written on Academic_CV.pdf (2 pages, 187575 bytes).
+Output written on Academic_CV.pdf (2 pages, 187579 bytes).
 
 PDF statistics: 110 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 131072)
